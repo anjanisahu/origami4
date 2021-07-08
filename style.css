@@ -1,0 +1,63 @@
+body{
+    background-color: chocolate;
+}
+.header{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: blanchedalmond;
+}
+.social{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: yellow;
+}
+.anjani{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: chocolate;
+}
+.prapti{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: pink;
+}
+.faimly{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: green;
+}
+.phone{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: lightblue;
+}
+.header:hover{
+    opacity: 0.33;
+}
+.social:hover{
+    opacity: 0.33;
+}
+.anjani:hover{
+    opacity: 0.33;
+}
+.prapti:hover{
+    opacity: 0.33;
+}
+.faimly:hover{
+    opacity: 0.33;
+}
+.phone:hover{
+    opacity: 0.33;
+}
+.hand{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-center;
+    background-color: chocolate;
+}
